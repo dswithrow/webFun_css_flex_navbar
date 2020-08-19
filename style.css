@@ -19,6 +19,8 @@
 }
 div {
     background-color: #6495ed;
+    width: 970px;
+    margin: auto;
     display: flex;
     align-items: center;
     /* justify-content: space-between; */
